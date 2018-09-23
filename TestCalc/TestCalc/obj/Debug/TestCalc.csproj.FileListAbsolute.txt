@@ -1,0 +1,10 @@
+D:\Работа\Работа с SVN\TestCalc\TestCalc\bin\Debug\TestCalc.exe.config
+D:\Работа\Работа с SVN\TestCalc\TestCalc\bin\Debug\TestCalc.exe
+D:\Работа\Работа с SVN\TestCalc\TestCalc\bin\Debug\TestCalc.pdb
+D:\Работа\Работа с SVN\TestCalc\TestCalc\obj\Debug\TestCalc.csprojResolveAssemblyReference.cache
+D:\Работа\Работа с SVN\TestCalc\TestCalc\obj\Debug\TestCalc.Form1.resources
+D:\Работа\Работа с SVN\TestCalc\TestCalc\obj\Debug\TestCalc.Properties.Resources.resources
+D:\Работа\Работа с SVN\TestCalc\TestCalc\obj\Debug\TestCalc.csproj.GenerateResource.Cache
+D:\Работа\Работа с SVN\TestCalc\TestCalc\obj\Debug\TestCalc.csproj.CoreCompileInputs.cache
+D:\Работа\Работа с SVN\TestCalc\TestCalc\obj\Debug\TestCalc.exe
+D:\Работа\Работа с SVN\TestCalc\TestCalc\obj\Debug\TestCalc.pdb
